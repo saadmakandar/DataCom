@@ -1,0 +1,20 @@
+Jun 25 11:22:17.913 HYPERVISOR: Release 0.2.23-amd64/Linux (tag 2023010200)
+Jun 25 11:22:17.913 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 40041.
+Jun 25 11:22:17.924 HYPERVISOR: exec_cmd: hypervisor version 
+Jun 25 11:22:17.925 HYPERVISOR: exec_cmd: hypervisor working_dir /opt/gns3/projects/a256c8eb-7d02-4343-aff1-69ae306f102e/project-files/dynamips 
+Jun 25 11:22:17.925 GENERAL: working_dir=/opt/gns3/projects/a256c8eb-7d02-4343-aff1-69ae306f102e/project-files/dynamips
+Jun 25 11:22:17.926 HYPERVISOR: exec_cmd: hypervisor working_dir /opt/gns3/projects/a256c8eb-7d02-4343-aff1-69ae306f102e/project-files/dynamips/b3598db5-c786-4d80-9f79-5260142b43c3 
+Jun 25 11:22:17.926 GENERAL: working_dir=/opt/gns3/projects/a256c8eb-7d02-4343-aff1-69ae306f102e/project-files/dynamips/b3598db5-c786-4d80-9f79-5260142b43c3
+Jun 25 11:22:17.926 HYPERVISOR: exec_cmd: vm create R4 4 c3725 
+Jun 25 11:22:17.927 VM: VM R4 created.
+Jun 25 11:22:17.928 HYPERVISOR: exec_cmd: vm set_con_tcp_port R4 5007 
+Jun 25 11:22:17.928 HYPERVISOR: exec_cmd: c3725 get_mac_addr R4 
+Jun 25 11:22:17.929 HYPERVISOR: exec_cmd: vm set_disk0 R4 0 
+Jun 25 11:22:17.930 HYPERVISOR: exec_cmd: vm get_status R4 
+Jun 25 11:22:17.930 HYPERVISOR: exec_cmd: vm set_idle_pc R4 0x60c09aa0 
+Jun 25 11:22:17.932 HYPERVISOR: exec_cmd: vm set_ios R4 /opt/gns3/images/IOS/c3725-adventerprisek9-mz.124-15.T14.image 
+Jun 25 11:22:17.933 HYPERVISOR: exec_cmd: c3725 set_mac_addr R4 c204.9e39.0000 
+Jun 25 11:22:17.934 HYPERVISOR: exec_cmd: vm set_nvram R4 256 
+Jun 25 11:22:19.610 HYPERVISOR: exec_cmd: nio create_udp udp-b32ee258-5814-469a-aad1-0aef1ae3d1ed 20014 127.0.0.1 20015 
+Jun 25 11:22:19.869 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R4 0 0 udp-b32ee258-5814-469a-aad1-0aef1ae3d1ed 
+Jun 25 11:22:19.870 HYPERVISOR: exec_cmd: vm get_status R4 
