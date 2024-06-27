@@ -1,0 +1,26 @@
+uBridge version 0.9.18 running with libpcap version 1.9.1 (with TPACKET_V3)
+Hypervisor TCP control server started (IP 0.0.0.0 port 46739).
+UDP tunnel connecting from local port 20045 to IPv4 address 127.0.0.1 on port 20044
+UDP tunnel connecting from local port 20001 to IPv4 address 127.0.0.1 on port 20000
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-0 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-0 has started
+UDP tunnel connecting from local port 20047 to IPv4 address 127.0.0.1 on port 20046
+UDP tunnel connecting from local port 20003 to IPv4 address 127.0.0.1 on port 20002
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-1 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-1 has started
+UDP tunnel connecting from local port 20049 to IPv4 address 127.0.0.1 on port 20048
+UDP tunnel connecting from local port 20005 to IPv4 address 127.0.0.1 on port 20004
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-2 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-2 has started
+UDP tunnel connecting from local port 20051 to IPv4 address 127.0.0.1 on port 20050
+UDP tunnel connecting from local port 20007 to IPv4 address 127.0.0.1 on port 20006
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-3 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-3 has started
+UDP tunnel connecting from local port 20053 to IPv4 address 127.0.0.1 on port 20052
+UDP tunnel connecting from local port 20009 to IPv4 address 127.0.0.1 on port 20008
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-4 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-4 has started
+UDP tunnel connecting from local port 20055 to IPv4 address 127.0.0.1 on port 20054
+UDP tunnel connecting from local port 20011 to IPv4 address 127.0.0.1 on port 20010
+Source NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-5 has started
+Destination NIO listener thread for QEMU-38c734e3-4211-4a63-8146-998d43f1deb0-5 has started
