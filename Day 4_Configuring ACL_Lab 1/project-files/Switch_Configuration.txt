@@ -1,0 +1,15 @@
+Ethernet switch Switch1 is always-on
+  Running on server Main server with port 80
+  Local ID is 22 and server ID is 5f20ec15-1f0d-48c0-a860-13fe73283057
+  Console is on port 5003 and type is none
+   Port Ethernet0 is in access  mode, with VLAN ID 1,
+    connected to Branch on port FastEthernet0/1
+   Port Ethernet1 is in access  mode, with VLAN ID 1,
+    connected to PC1 on port Ethernet0
+   Port Ethernet2 is in access  mode, with VLAN ID 1,
+    connected to PC2 on port Ethernet0
+   Port Ethernet3 is empty
+   Port Ethernet4 is empty
+   Port Ethernet5 is empty
+   Port Ethernet6 is empty
+   Port Ethernet7 is empty
